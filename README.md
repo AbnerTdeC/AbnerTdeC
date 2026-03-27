@@ -17,7 +17,7 @@ Estudante de **Engenharia da Computação pela PUC-Rio**, focado em integrar har
 - **Hardware/IoT:** Eletrônica digital, automação, montagem de infraestrutura de redes e manutenção de sistemas enterprise.
 
 ### 📊 Estatísticas:
-![Estatísticas do GitHub](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbnerTdeC&show_icons=true&theme=radical))
+![Estatísticas do GitHub](![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=AbnerTdeC&show_icons=true&theme=radical](https://github-readme-stats-sigma-five.vercel.app/api?username=AbnerTdeC&show_icons=true&theme=radical)))
 
 ---
 
